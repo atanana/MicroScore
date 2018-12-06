@@ -5,7 +5,8 @@
 	var allLeads = [];
 	var tourCount = 0;
 
-	var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1HoHx349IzwCtDu1TZEIwe-lY2uXWCJz8QIYL36Ur3cM/edit'; //prod 2017-2018
+    var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1MLFq_XfxP7fg9_KEsXiL_3k-LPUOf8gBE9LY4xv-MI4/edit'; //prod 2018-2019
+	//var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1HoHx349IzwCtDu1TZEIwe-lY2uXWCJz8QIYL36Ur3cM/edit'; //prod 2017-2018
 	//var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/14XNcqz9cTWRwXPy6myARyWL8g4qEBWkS4jz2S4vJu44/pubhtml'; //prod 2016-2017
 	//var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1hdAunhHHePMEdd0IqZXzN2e8IcQligaoV2YZUt71ehs/pubhtml'; //prod 2015-2016
 	//var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1M2J8TILI8Qb8c5TjEBv0k065tOXZrtM0O36zMujysgc/pubhtml'; //prod 2014-2015
